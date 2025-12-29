@@ -1,2 +1,1 @@
-# Insurance
-Claim Management and Monitor
+# Insurance Management System
